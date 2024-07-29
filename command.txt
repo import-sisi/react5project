@@ -1,0 +1,25 @@
+npm create vite@latest react-todolist
+Need to install the following packages:
+create-vite@5.4.0
+Ok to proceed? (y) y
+
+
+> npx
+> create-vite react-todolist
+
+√ Select a framework: » React
+√ Select a variant: » JavaScript
+
+Scaffolding project in D:\projects\react\react-todolist...
+
+Done. Now run:
+
+  cd react-todolist
+  npm install
+  npm run dev
+
+npm notice
+npm notice New patch version of npm available! 10.8.1 -> 10.8.2
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v10.8.2
+npm notice To update run: npm install -g npm@10.8.2
+npm notice
