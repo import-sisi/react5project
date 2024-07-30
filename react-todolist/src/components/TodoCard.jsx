@@ -2,6 +2,10 @@ import React from 'react'
 
 export default function TodoCard() {
   return (
-    <div>TodoCard</div>
+    <li className='todoItem' key={todoInedx}>
+      <div>
+        <i class="fa-solid fa-pen-to-square"></i>
+      </div>
+    </li>
   )
 }
